@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="sunscreen">sunscreen</string>
+    <string name="weather_matters_nwe_ve_got_the_details">Weather Matters,\nWe\'ve Got the Details</string>
+    <string name="delhi">Delhi</string>
+    <string name="today">Today</string>
+    <string name="_31">20</string>
+    <string name="celcius">°C</string>
+    <string name="search">Search</string>
+    <string name="min">Min:</string>
+    <string name="_27_8">27.8</string>
+    <string name="max">Max:</string>
+    <string name="sunny">Sunny</string>
+    <string name="_24_january_2024">24 January 2024</string>
+    <string name="_70">70</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="sunday">Sunday</string>
+    <string name="conditions">Conditions</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="sea">Sea Level</string>
+    <string name="pressure">Pressure</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="clouds">Clouds</string>
+    <string name="rain">Rain</string>
+</resources>
